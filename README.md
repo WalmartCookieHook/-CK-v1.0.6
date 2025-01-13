@@ -1,4 +1,4 @@
-# -CK-v1.0.6
+# 沃尔玛CK捕获v1.0.6
 
 
 # 【重要】请先安装mitmproxy-11.0.1-windows-x86_64-installer.exe，然后在运行CK捕获
